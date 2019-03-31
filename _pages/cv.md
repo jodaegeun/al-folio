@@ -6,7 +6,7 @@ description:
 ---
 
 <hr/>
-<h3><strong>Daegeunu Jo</strong></h3>
+<h3><strong>Daegeun Jo</strong></h3>
 
 Department of Physics <br/>
 Pohang University of Science and Technology<br/>
