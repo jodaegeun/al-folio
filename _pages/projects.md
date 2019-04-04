@@ -2,8 +2,11 @@
 layout: page
 title: Research
 permalink: /research/
-description: These are the research topics that I'm currently interested in. Photos from <a href="https://pixabay.com/" target="_blank">Pixabay</a>.
+description: This page is under construction. <!-- These are the research topics that I'm currently interested in. Photos from <a href="https://pixabay.com/" target="_blank">Pixabay</a>. -->
 ---
+
+
+<!-- 
 
 {% for project in site.projects %}
 
@@ -46,3 +49,4 @@ description: These are the research topics that I'm currently interested in. Pho
 {% endif %}
 
 {% endfor %}
+ -->
