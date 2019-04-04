@@ -3,9 +3,9 @@ layout: page
 ---
 <center>
 {% if page.profile %}
-  <div class="profile one {{ page.profile.align }}">
+  <div class="profile two {{ page.profile.align }}">
     {% if page.profile.image %}
-      <img class="one" src="{{ page.profile.image | prepend: '/assets/img/' | prepend: site.baseurl | prepend: site.url }}">
+      <img class="two" src="{{ page.profile.image | prepend: '/assets/img/' | prepend: site.baseurl | prepend: site.url }}">
     {% endif %}
   </div>
   {% if page.profile.address %}
