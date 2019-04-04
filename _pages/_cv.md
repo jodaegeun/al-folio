@@ -1,10 +1,19 @@
 ---
 layout: page
 permalink: /cv/
-title: Curriculum vitae
+title: Curriculum Vitae
 description: 
 ---
 
+Click <a href="/assets/pdf/CV.pdf" target="_blank">here</a> to download.
+<!-- <embed src="/assets/pdf/CV.pdf" width="100%" height="500px" /> -->
+<iframe src="/assets/pdf/CV.pdf" width="100%" height="500px"> </iframe>
+
+<!-- <img class="col" src="/assets/pdf/CV.pdf" width="100%">  -->
+<!-- <a href="/assets/pdf/CV.pdf"> </a> -->
+
+
+<!-- 
 <hr/>
 <h3><strong>Daegeun Jo</strong></h3>
 
@@ -75,4 +84,4 @@ See [Publications page](/publications/).
    <li>Giant Intrinsic Orbital Hall Effects in Light Metals, 15th SRC Winter Workshop on Topological Matter, Pohang, Korea, Jan. 30-31, 2019 </li>
    <li>Gigantic intrinsic orbital Hall effects in weakly spin-orbit coupled materials, International School on Spintronics and Korea-Japan Spintronics Workshop, Nagoya, Japan, Jan. 21-22, 2019 </li>
    <li>Giant intrinsic orbital Hall effects in weakly spin-orbit coupled systmes, 2018 Korean Physical Society Fall Meeting, Changwon, Korea, Oct. 24-26, 2018 </li>
-</ul>
+</ul> -->
